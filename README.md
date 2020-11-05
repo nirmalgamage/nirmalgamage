@@ -1,6 +1,5 @@
-### Hi!, I am Pramith Nirmal 👋
-
-
+### Hi! I am Pramith Nirmal 👋
+#### Undergraduate
 
 - 🔭 I’m currently working on my university final year project
 - 🌱 I’m currently learning more on Neural networks.
@@ -10,3 +9,4 @@
 **nirmalgamage/nirmalgamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![Pramith's github stats](https://github-readme-stats.vercel.app/api?username=nirmalgamage&show_icons=true&hide=contribs,issues)
+

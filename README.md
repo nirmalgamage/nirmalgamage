@@ -1,8 +1,8 @@
 ### Hi! I am Pramith Nirmal 👋
-#### Undergraduate
+#### Senior Software Engineer, Backend Developer
 
-- 🔭 I’m currently working on my university final year project
-- 🌱 I’m currently learning more on Neural networks.
+- 🔭 I am a passionate engineering focusing on developing robust web solutions.
+- 🌱 I’m currently exploring cloud technologies like Azure and their capabilities.
 - 📫 How to reach me: https://www.facebook.com/pramithnirmal.millawagamage
 - ⚡ Fun fact: I love Music and playing Cricket😄
 <!--

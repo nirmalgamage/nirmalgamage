@@ -1,8 +1,8 @@
 ### Hi! I am Pramith Nirmal 👋
 #### Senior Software Engineer, Backend Developer
 
-- 🔭 I am a passionate engineering focusing on developing robust web solutions.
-- 🌱 I’m currently exploring cloud technologies like Azure and their capabilities.
+- 🔭 I am a passionate engineer, focusing on developing robust web solutions.
+- 🌱 Currently exploring cloud technologies like Azure and their capabilities.
 - 📫 How to reach me: https://www.facebook.com/pramithnirmal.millawagamage
 - ⚡ Fun fact: I love Music and playing Cricket😄
 <!--
